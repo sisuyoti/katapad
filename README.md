@@ -16,6 +16,17 @@ M5StackをM5Stack burnerというソフトで書き込みます！UI Flowとい�
 
 もし、肩パッドを作りたい人がいたらコメントください。しすよちがサポートします！
 
+# 回路
+画像を参考に繋いでみてください
+![組み立て1](https://i.imgur.com/JM6TP9S.jpeg)
+![組み立て2](https://i.imgur.com/u03nidW.jpeg)
+![組み立て3](https://i.imgur.com/eSKKgJX.jpeg)
+![組み立て4](https://i.imgur.com/SH0zbBI.jpeg)
+![組み立て5](https://i.imgur.com/g9ksz76.jpeg)
+![組み立て6](https://i.imgur.com/laUMnO2.jpeg)
+![組み立て7](https://i.imgur.com/yGbw7On.jpeg)
+![組み立て8](https://i.imgur.com/iyhDSrG.jpeg)
+
 # ライセンス
 商用利用不可、非営利ならOK!
 
