@@ -24,7 +24,7 @@ M5StackをM5Stack burnerというソフトで書き込みます！UI Flowとい�
 ![組み立て4](https://i.imgur.com/SH0zbBI.jpeg)
 ![組み立て5](https://i.imgur.com/g9ksz76.jpeg)
 ![組み立て6](https://i.imgur.com/laUMnO2.jpeg)
-![組み立て7](https://i.imgur.com/yGbw7On.jpeg)
+![組み立て7](https://i.imgur.com/5GO0ODG.jpg)
 ![組み立て8](https://i.imgur.com/iyhDSrG.jpeg)
 
 # ライセンス
